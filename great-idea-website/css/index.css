@@ -64,3 +64,73 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+a {
+	color:black;
+	background:gray;
+	
+	}
+  .logo {
+	float:right;
+  }
+  
+  img {
+	float:right;
+  }
+  
+  hr {
+   border-top: 1px solid black; 
+  }
+   
+  
+	
+
+	
+	.top-content {
+	  display:inline-block;
+	  width:700px;
+	  margin-left:50px;
+	  margin-top:20px;
+  }
+  .ab2 {
+   display:inline-block;
+	width:700px; 
+	margin-left:50px;
+  }
+	
+  .bottom-content {
+   display:inline-block;
+	width:410px; 
+	margin-top:150px;
+	margin-left:50px;
+  }
+  
+  .bottom-content1 {
+   display:inline-block;
+	width:410px;
+	margin-top:150px;
+	  margin-left:20px; 
+	text-align:center;
+  }
+  
+  .bottom-content2 {
+	display:inline-block;
+	width:410px; 
+	margin-top:150px; 
+	margin-left:20px
+   
+  }
+  .b2 {
+	border-bottom: 1px solid black; 
+  }
+  .address {
+	display:inline-block;
+	width:200px; 
+	margin-top:150px; 
+	margin-left:20px 
+  }
+  
+  footer {
+	text-align:center;
+  }
+	
+
